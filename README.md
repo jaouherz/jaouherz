@@ -57,7 +57,7 @@
   <a href="https://www.linkedin.com/in/jaouher-zouari-035777215?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app&fbclid=IwY2xjawIgbM5leHRuA2FlbQIxMAABHfAscYk-UHTMAWoJen2tl1ocaYH9d8ommW25bziDMcKpV6qVRGF2AqptMg_aem_36GyJrEp08-80a-DaTbQTA" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="zouarijaouher@gmail.com" target="_blank">
+  <a href="mailto:youremail@example.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/jaouher_zouari/?igsh=MXFpYmljeXVpdnZhNw%3D%3D&fbclid=IwY2xjawIgbGhleHRuA2FlbQIxMAABHflWmHTz3Z3HATrIIzrJE5Ph7w8MkEDFoEYxSJO8e_NiB2Uhyh_yr0Teaw_aem_XAhlin52z5tTp6rTktJpkw" target="_blank">
