@@ -23,7 +23,7 @@ I build reliable backend systems and full-stack applications with a focus on cle
 ## Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,python,django,postgres,mysql,mongodb,docker,git&perline=12" alt="Java, Spring, Angular, TypeScript, JavaScript, Python, Django, PostgreSQL, MySQL, MongoDB, Docker and Git" />
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,gradle,hibernate,postgres,mysql,mongodb,docker,postman,git,githubactions,angular,ts,python,django&perline=8" alt="Java, Spring, Maven, Gradle, Hibernate, PostgreSQL, MySQL, MongoDB, Docker, Postman, Git, GitHub Actions, Angular, TypeScript, Python and Django" />
 </p>
 
 **Testing & quality:** JUnit · Mockito · Testcontainers · Unit testing · Integration testing
