@@ -14,6 +14,8 @@ I build reliable backend systems and full-stack applications with a focus on cle
 ## About me
 
 - 💻 Backend-focused software engineer specializing in **Java and Spring Boot**
+- 🏦 Most of my relevant experience in **Java, payments, and banking systems** comes from proprietary professional work and is not represented in my public repositories
+- 🧪 Experienced in unit and integration testing with **JUnit, Mockito, and Testcontainers**
 - 🎓 **Oracle Certified Associate, Java Programmer**
 - 🧩 Interested in API design, scalable services, clean architecture, and applied AI
 - 📍 Based in **Germany**
@@ -23,6 +25,8 @@ I build reliable backend systems and full-stack applications with a focus on cle
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,python,django,postgres,mysql,mongodb,docker,git&perline=12" alt="Java, Spring, Angular, TypeScript, JavaScript, Python, Django, PostgreSQL, MySQL, MongoDB, Docker and Git" />
 </p>
+
+**Testing & quality:** JUnit · Mockito · Testcontainers · Unit testing · Integration testing
 
 ## Selected projects
 
